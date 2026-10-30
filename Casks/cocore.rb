@@ -1,6 +1,6 @@
 cask "cocore" do
-  version "0.9.58"
-  sha256 "897ebd8971415a43e02d94dab9893aeab97d38d72de3ae7ac13be57b27dfde39"
+  version "0.9.61"
+  sha256 "0f59e2c86f6edf5562aabdcb05fcff9deceea6c07786f30f8a33c6284768bd7d"
 
   url "https://cocore.dev/agent/app"
   name "cocore"
